@@ -1,0 +1,14 @@
+/.build/
+/.bundle/
+/.yardoc
+/Gemfile.lock
+/_yardoc/
+/coverage/
+/doc/
+/pkg/
+/spec/reports/
+/tmp/
+
+xcuserdata
+# rspec failure tracking
+.rspec_status
